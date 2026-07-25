@@ -4,7 +4,7 @@ Opus 48 kbps previews for the **karoryfer.shinyguitar** sample library.
 
 ## About
 
-- **Files**: 450 Opus previews
+- **Files**: 846 Opus previews
 - **Bitrate**: 48 kbps VBR
 - **Container**: Ogg Opus (.opus)
 - **Source**: [`zulfikarbarbora-outl/karoryfer.shinyguitar`](https://github.com/zulfikarbarbora-outl/karoryfer.shinyguitar)
